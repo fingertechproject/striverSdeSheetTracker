@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StriverSDE_Sheet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="contribute">Contribute</string>
+    <string name="feedback">Feedback</string>
+    <string name="about_us">About Us</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
